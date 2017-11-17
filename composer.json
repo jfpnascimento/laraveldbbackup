@@ -16,6 +16,5 @@
         "psr-0": {
             "JeanFelipe\\LaravelDbBackup": "src/"
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
