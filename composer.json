@@ -1,0 +1,21 @@
+{
+    "name": "jfpnascimento/laraveldbbackup",
+    "description": "Pacote Laravel para Facilitar Backup do Banco de Dados através da linha de comando, e futuramente com Gerenciamento pela interface",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jean Felipe",
+            "email": "jean@infoworld.net.br"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "5.0.* | 5.1.* | 5.2.* | 5.3.* | 5.4.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "JeanFelipe\\LaravelDbBackup": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
